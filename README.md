@@ -6,7 +6,7 @@ Venturus Technical Challenge: The objective of the application is to fetch cats 
 ## Imagem Demonstrativa da Aplicação
 
 <p align="center">
-  <img title="List Cat" alt="List Cat" src="https://im2.ezgif.com/tmp/ezgif-2-c8e2b57f1ee2.gif">
+  <img title="List Cat" alt="List Cat" src="https://ibb.co/mFgfhQt">
 </p>
 
 
